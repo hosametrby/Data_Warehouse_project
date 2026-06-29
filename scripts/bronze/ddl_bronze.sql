@@ -8,7 +8,8 @@ Script Purpose:
     Run this script to re-define the DDL structure of 'bronze' Tables
 ===============================================================================
 */
-
+CREATE SCHEMA bronze;
+GO
 USE DataWarehouse;
 GO
 
